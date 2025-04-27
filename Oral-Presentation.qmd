@@ -7,3 +7,7 @@ editor: visual
 Line 1
 
 Line 2
+
+B section
+
+Line 4
